@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning **Frameworks & new Technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SBMaity](https://github.com/SBMaity)
+- 👨‍💻 All of my projects are available at [@github.com/SumitBikram](https://github.com/SumitBikram)
 
 - 📫 How to reach me **maity.sumitbikram@gmail.com**
 
