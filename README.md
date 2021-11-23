@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Bikram Maity</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
-- :man_technologist: I am a final Year college Student.
+- :man_technologist: I am a final year college Student.
 
 - 🔭 Last worked with [Prister Health Care](https://github.com/SBMaity/Prister_HealthCare).
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [@github.com/SumitBikram](https://github.com/SumitBikram)
 
-- 📫 How to reach me **maity.sumitbikram@gmail.com**
+- 📫 Email me : **maity.sumitbikram@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
