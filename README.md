@@ -1,18 +1,18 @@
-<h1 align="center">Hi👋, I'm Sumit Bikram Maity</h1>
-<h3 align="center">A passionate Android Developer from India 🇮🇳</h3>
+### Hey 👋🏽, I'm [Sumit!]()
 
-- 👨‍💻 I am a final year college Student.
-- ✍️ Currenltly interning at [1Channel.ai](https://1channel.ai/).
+<br/>
+
+Hi, I'm Sumit Bikram Maity, a Mobile App Developer🚀 (Android & Flutter) from India 🇮🇳. I do participate in CP and doing interesting stuffs. Beside's programming, I enjoy eating food and traveling.
+
+<br/>
+
+- 👨‍💻 I am a working professional.
+- ✍️ Currenltly working at [1Channel.ai](https://1channel.ai/).
 - 🤝 Last worked with [Prister Health Care](https://github.com/SBMaity/Prister_HealthCare).
-- 🌱 I’m learning **Frameworks & new Technologies**
+- 🌱 I’m feeling the heats of C++ (CP-Algorithms)⚔ & learning Frameworks & new Technologies
 - 📁 All of my projects are available at [@github.com/SumitBikram](https://github.com/SumitBikram)
 - 📨 Email me : **maity.sumitbikram@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sumit_bikram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sumit_bikram" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sumit_9398" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumit_9398" height="30" width="40" /></a>
-</p>
+- 📫 Reach me : [Linkedin](https://www.linkedin.com/in/sumit-bikram-maity-225358102/) | [FaceBook](https://www.facebook.com/Rony.sumit) | [Instagram](https://www.instagram.com/rony_sumit/) | [Twitter](https://twitter.com/sumit_bikram)
 
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android"/></code>
