@@ -7,8 +7,8 @@ Hi, I'm Sumit Bikram Maity, a Mobile App Developer🚀 (Android & Flutter) from 
 <br/>
 
 - 👨‍💻 I am a working professional.
-- ✍️ Currenltly working at [1Channel.ai](https://1channel.ai/).
-- 🤝 Last worked with [Prister Health Care](https://github.com/SBMaity/Prister_HealthCare).
+- ✍️ Currenltly working at [Assistive](https://www.getassistive.com/).
+- 🤝 Last worked with [1Channel.ai](https://1channel.ai/).
 - 🌱 I’m feeling the heats of C++ (CP-Algorithms)⚔ & learning Frameworks & new Technologies
 - 📁 All of my projects are available at [@github.com/SumitBikram](https://github.com/SumitBikram)
 - 📨 Email me : **maity.sumitbikram@gmail.com**
