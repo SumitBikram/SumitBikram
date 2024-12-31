@@ -10,7 +10,7 @@
         <li>👨‍💻 I am a working professional.</li>
         <li>🎓 I hold a degree in Computer Science.</li>
         <li>✍️ Currenltly working at <a href="https://www.1channel.co/" target="_blank">1Channel</a>.</li>
-        <li>🤝 Last worked with <a href="" target="_blank">Assistive</a>.</li>
+        <li>🤝 Last worked with <a href="https://www.getassistive.com" target="_blank">Assistive</a>.</li>
         <li>🌱 I’m feeling the heats⚡of C++ (CP-Algorithms)⚔ & learning frameworks.</li>
         <li>📁 All of my projects are available at <a href="https://github.com/SumitBikram" target="_blank">@github.com/SumitBikram</a></li>
         <li>📫 Reach me : <a href="https://www.linkedin.com/in/sumit-bikram-maity-225358102/" target="_blank">Linkedin</a> | <a href="https://www.facebook.com/Rony.sumit" target="_blank">FaceBook</a> | <a href="https://www.instagram.com/rony_sumit/" target="_blank">Instagram</a> | <a href="https://twitter.com/sumit_bikram" target="_blank">Twitter</a></li>
